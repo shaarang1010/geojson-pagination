@@ -15,3 +15,8 @@ Devs can specify the radius and get points closest to the users to begin with.
 
 When the user expands the search radius, we can retrieve subsequest points by making 
 additional api calls to specifying the page number
+
+
+## Stack
+Python - Flask
+Nodejs + Express
