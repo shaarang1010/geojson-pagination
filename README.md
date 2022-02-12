@@ -18,5 +18,7 @@ additional api calls to specifying the page number
 
 
 ## Stack
+
 Python - Flask
+
 Nodejs + Express
