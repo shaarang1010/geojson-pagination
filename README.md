@@ -1,4 +1,4 @@
-# geojson-pagination
+# geojson-pagination [WIP]
 Python and nodejs solutions for paginating large geojson file. 
 
 ## Motivation
